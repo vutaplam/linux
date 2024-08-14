@@ -82,7 +82,7 @@
 * Creating a directory
   * `mkdir`
   * `mkdir -p`
-* listing files
+* listing files and directories 
   * `ls`
   * `ls -a`
   * `ls -la`
